@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25823839/README.md)
 <div align="center">
 
 <!-- Animated Typing Header -->
