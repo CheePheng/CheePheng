@@ -4,43 +4,41 @@
 
 <br/>
 
-## ✨ Welcome to my GitHub — check out my portfolio! ✨
+### ✨ Welcome to my GitHub — check out my portfolio! ✨
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              MAIN PORTFOLIO LINK - BIG & CLICKABLE     -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════ -->
+<!--        MAIN PORTFOLIO CTA - BIG           -->
+<!-- ═══════════════════════════════════════════ -->
 
 <a href="https://cheepheng.github.io">
-  <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-cheepheng.github.io-8B5CF6?style=for-the-badge&labelColor=0D1117&color=8B5CF6&logo=googlechrome&logoColor=white" height="60" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_VISIT_MY_PORTFOLIO-cheepheng.github.io-8B5CF6?style=for-the-badge&labelColor=0D1117" height="55" />
 </a>
 
 <br/><br/>
 
 <a href="https://cheepheng.github.io">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:8b5cf6&height=200&text=🚀%20cheepheng.github.io%20🚀&fontSize=40&fontColor=ffffff&desc=Click%20here%20to%20explore%20my%20projects,%20experience%20%26%20transcripts&descSize=16&descAlignY=70&fontAlignY=42" width="100%" />
+  <img src="https://img.shields.io/badge/%E2%9C%A8_Explore_my_projects,_experience_&_transcripts_%E2%9C%A8-Click_Here-6366f1?style=for-the-badge&labelColor=1a1b27" height="48" />
 </a>
 
 <br/><br/>
 
 <a href="https://cheepheng.github.io">
-  <img src="https://img.shields.io/badge/📂_View_All_Projects-Portfolio_Site-6366f1?style=for-the-badge&labelColor=0D1117" height="42" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%82_Projects-View-6366f1?style=for-the-badge&labelColor=0D1117" height="38" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://cheepheng.github.io">
-  <img src="https://img.shields.io/badge/📄_Download_Transcripts-Portfolio_Site-8B5CF6?style=for-the-badge&labelColor=0D1117" height="42" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%84_Transcripts-Download-8B5CF6?style=for-the-badge&labelColor=0D1117" height="38" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://cheepheng.github.io">
-  <img src="https://img.shields.io/badge/📧_Contact_Me-Portfolio_Site-a78bfa?style=for-the-badge&labelColor=0D1117" height="42" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7_Contact-Reach_Out-a78bfa?style=for-the-badge&labelColor=0D1117" height="38" />
 </a>
 
 <br/><br/>
 
 ---
-
-<br/>
 
 </div>
 
@@ -80,32 +78,28 @@ const cheePheng = {
 
 ---
 
-## 🔥 Highlights
+## 🔥 Featured Projects
 
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**🌐 Portfolio Site**](https://cheepheng.github.io) | My personal portfolio — projects, transcripts & contact | React, Vite, Tailwind, Framer Motion |
-| [**🎮 PartyAI**](https://github.com/CheePheng/PartyAI) | Play games locally with friends using AI | TypeScript |
-| [**💞 KinshipPro**](https://github.com/CheePheng/KinshipPro) | Relationship management app | TypeScript |
-| [**✈️ AI Travel Companion**](https://github.com/CheePheng/AiTravelCompanionB) | AI-powered travel planning | TypeScript |
-| [**🦁 WildSphere Zoo**](https://github.com/CheePheng/WildSphere-Zoo-) | Zoo management system | C# |
-| [**📰 NewsApp**](https://github.com/CheePheng/NewsApp) | Modern news aggregation app | TypeScript |
-| [**📡 IoT Simulation**](https://github.com/CheePheng/IotSimulationAndAggregationSystem) | IoT device simulation & aggregation | Python |
-
-</div>
+| | Project | Description | Tech |
+|---|---------|-------------|------|
+| 🌐 | [**Portfolio Site**](https://cheepheng.github.io) | My personal portfolio — projects, transcripts & contact | React, Vite, Tailwind |
+| 🎮 | [**PartyAI**](https://github.com/CheePheng/PartyAI) | Play games locally with friends using AI | TypeScript |
+| 💞 | [**KinshipPro**](https://github.com/CheePheng/KinshipPro) | Relationship management app | TypeScript |
+| ✈️ | [**AI Travel Companion**](https://github.com/CheePheng/AiTravelCompanionB) | AI-powered travel planning | TypeScript |
+| 🦁 | [**WildSphere Zoo**](https://github.com/CheePheng/WildSphere-Zoo-) | Zoo management system | C# |
+| 📰 | [**NewsApp**](https://github.com/CheePheng/NewsApp) | Modern news aggregation app | TypeScript |
+| 📡 | [**IoT Simulation**](https://github.com/CheePheng/IotSimulationAndAggregationSystem) | IoT device simulation & aggregation | Python |
 
 ---
 
 <div align="center">
 
-### 👇 Everything is on my portfolio — go check it out! 👇
+### 👇 Everything lives on my portfolio 👇
 
 <br/>
 
 <a href="https://cheepheng.github.io">
-  <img src="https://img.shields.io/badge/🌐_cheepheng.github.io-VISIT_NOW-8B5CF6?style=for-the-badge&labelColor=0D1117&color=8B5CF6" height="55" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_cheepheng.github.io-VISIT_NOW-8B5CF6?style=for-the-badge&labelColor=0D1117" height="50" />
 </a>
 
 <br/><br/>
