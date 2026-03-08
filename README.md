@@ -1,16 +1,13 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Chee+Pheng!;Full+Stack+Developer+%7C+Fresh+Graduate+%F0%9F%8E%93" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Chee+Pheng!;Full+Stack+Developer+%7C+Fresh+Grad+%F0%9F%8E%93" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=120&section=header&text=&animation=fadeIn" width="100%" />
 
 </div>
-
----
 
 ## 🚀 About Me
 
@@ -45,9 +42,9 @@ const cheePheng = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -57,12 +54,12 @@ const cheePheng = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CheePheng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CheePheng&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CheePheng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=CheePheng&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheePheng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheePheng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
 
 </div>
 
@@ -82,17 +79,17 @@ const cheePheng = {
 
 <div align="center">
 
-<a href="https://github.com/CheePheng/my-profolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CheePheng&repo=my-profolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+<a href="https://github.com/CheePheng/CheePheng.github.io">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CheePheng&repo=CheePheng.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
 </a>
 <a href="https://github.com/CheePheng/PartyAI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CheePheng&repo=PartyAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CheePheng&repo=PartyAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
 </a>
 <a href="https://github.com/CheePheng/KinshipPro">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CheePheng&repo=KinshipPro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CheePheng&repo=KinshipPro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
 </a>
 <a href="https://github.com/CheePheng/AiTravelCompanionB">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CheePheng&repo=AiTravelCompanionB&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CheePheng&repo=AiTravelCompanionB&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
 </a>
 
 </div>
@@ -103,7 +100,7 @@ const cheePheng = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CheePheng&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CheePheng&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -113,15 +110,16 @@ const cheePheng = {
 
 ### 🤝 Let's Connect!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cheepheng.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cheepheng.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CheePheng)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:cheephengcheepheng@outlook.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=CheePheng&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=CheePheng&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=100&section=footer" width="100%" />
 
 </div>
