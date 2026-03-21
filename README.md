@@ -32,16 +32,20 @@
 <br/>
 
 ```javascript
+// ╔══════════════════════════════════════════════════════════════╗
+// ║  $ whoami                                                    ║
+// ╚══════════════════════════════════════════════════════════════╝
+
 const cheePheng = {
-    role: "Full Stack Developer",
-    education: "BSc (Hons) Cloud Computing — DkIT 2025",
-    languages: ["TypeScript", "Java", "C#", "Python"],
-    frontend: ["React", "Vite", "Tailwind CSS"],
-    backend: ["Spring Boot", ".NET MVC", "Node.js"],
-    devOps: ["Docker", "Git", "Azure"],
-    interests: ["AI", "IoT", "Game Dev", "Cloud Architecture"],
-    currentFocus: "Building beautiful, functional web apps",
-    funFact: "I also design furniture websites!",
+    education:  "BSc (Hons) Cloud Computing — DkIT 2025",
+    languages:  ["TypeScript", "Java", "C#", "C++", "Python", "PHP", "SQL", "Bash"],
+    frontend:   ["React", "Vite", "Tailwind CSS", "HTML", "CSS", "Framer Motion"],
+    mobile:     ["Ionic", "Electron"],
+    backend:    ["Spring Boot", ".NET MVC", "Node.js", "Supabase", "REST APIs"],
+    databases:  ["PostgreSQL", "MySQL", "MongoDB"],
+    cloud:      ["AWS", "Azure", "Docker", "Linux", "Microservices"],
+    tools:      ["Git", "GitHub Actions", "Vercel", "Maven", "JUnit"],
+    interests:  ["IoT", "Game Dev", "Cloud Architecture", "Full Stack"],
 };
 ```
 
@@ -59,7 +63,7 @@ const cheePheng = {
 <br/><br/>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=typescript,java,python,cs,react,vite,tailwind,spring,dotnet,docker,nodejs,git,azure,html,css&theme=dark&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,java,cs,cpp,python,php,html,css,react,vite,tailwind,spring,dotnet,nodejs,supabase,postgres,mysql,mongodb,aws,azure,docker,linux,git,maven,bash,vercel&theme=dark&perline=9" alt="Tech Stack" />
 </a>
 
 </div>
