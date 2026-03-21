@@ -179,11 +179,19 @@ const cheePheng = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CheePheng&show_icons=true&theme=tokyonight&border_color=6366f1&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&count_private=true" width="32%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CheePheng&theme=tokyonight&border=6366f1&stroke=6366f1&ring=8b5cf6&fire=a78bfa&currStreakLabel=8b5cf6&sideLabels=8b5cf6&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&background=0d1117" width="32%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheePheng&layout=compact&theme=tokyonight&border_color=6366f1&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="32%" />
+<table>
+<tr>
+<td width="33%">
+<img src="https://github-readme-stats.vercel.app/api?username=CheePheng&show_icons=true&theme=tokyonight&border_color=6366f1&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&count_private=true" width="100%" />
+</td>
+<td width="33%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CheePheng&theme=tokyonight&border=6366f1&stroke=6366f1&ring=8b5cf6&fire=a78bfa&currStreakLabel=8b5cf6&sideLabels=8b5cf6&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&background=0d1117" width="100%" />
+</td>
+<td width="33%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheePheng&layout=compact&theme=tokyonight&border_color=6366f1&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="100%" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -229,11 +237,11 @@ const cheePheng = {
 
 <br/><br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=CheePheng&theme=discord&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%" />
+
+<br/><br/>
+
 <img src="github-metrics-isometric.svg" alt="Isometric Contribution Calendar" width="95%" />
-
-<br/>
-
-<img src="github-metrics-achievements.svg" alt="GitHub Achievements" width="95%" />
 
 </div>
 
