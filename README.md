@@ -172,76 +172,10 @@ const cheePheng = {
 
 <br/>
 
-<!-- GitHub Stats -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366f1,100:8b5cf6&height=50&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=24&fontColor=ffffff&section=header" width="300" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td width="33%">
-<img src="https://github-readme-stats.vercel.app/api?username=CheePheng&show_icons=true&theme=tokyonight&border_color=6366f1&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&count_private=true" width="100%" />
-</td>
-<td width="33%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CheePheng&theme=tokyonight&border=6366f1&stroke=6366f1&ring=8b5cf6&fire=a78bfa&currStreakLabel=8b5cf6&sideLabels=8b5cf6&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&background=0d1117" width="100%" />
-</td>
-<td width="33%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheePheng&layout=compact&theme=tokyonight&border_color=6366f1&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="100%" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:8b5cf6&height=2&section=header" width="100%" />
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CheePheng&bg_color=0d1117&color=8b5cf6&line=6366f1&point=a78bfa&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
-
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:8b5cf6&height=2&section=header" width="100%" />
-
-<br/>
-
 <!-- Custom Terminal Animation -->
 <div align="center">
 
 <img src="assets/terminal-animation.svg" alt="Terminal Animation" width="95%" />
-
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:8b5cf6&height=2&section=header" width="100%" />
-
-<br/>
-
-<!-- Metrics: Isometric Calendar & Achievements -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6366f1,100:8b5cf6&height=50&text=%F0%9F%8F%86%20Achievements%20%26%20Contributions&fontSize=24&fontColor=ffffff&section=header" width="400" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=CheePheng&theme=discord&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%" />
-
-<br/><br/>
-
-<img src="github-metrics-isometric.svg" alt="Isometric Contribution Calendar" width="95%" />
 
 </div>
 
