@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380">
+  <defs>
+    <linearGradient id="frameBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="titleBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="glowLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a78bfa" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    @keyframes fadeSlideIn1 {
+      0%, 8% { opacity: 0; transform: translateY(8px); }
+      16% { opacity: 1; transform: translateY(0); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes fadeSlideIn2 {
+      0%, 22% { opacity: 0; transform: translateY(8px); }
+      32% { opacity: 1; transform: translateY(0); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes fadeSlideIn3 {
+      0%, 42% { opacity: 0; transform: translateY(8px); }
+      52% { opacity: 1; transform: translateY(0); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes fadeSlideIn4 {
+      0%, 60% { opacity: 0; transform: translateY(8px); }
+      70% { opacity: 1; transform: translateY(0); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes cursorAppear {
+      0%, 74% { opacity: 0; }
+      75%, 100% { opacity: 1; }
+    }
+
+    @keyframes glow {
+      0%, 100% { opacity: 0.25; }
+      50% { opacity: 0.7; }
+    }
+
+    @keyframes promptPulse {
+      0%, 100% { fill: #8b5cf6; }
+      50% { fill: #c4b5fd; }
+    }
+
+    @keyframes shimmer {
+      0% { transform: translateX(-800px); }
+      100% { transform: translateX(800px); }
+    }
+
+    .line1 { opacity: 0; animation: fadeSlideIn1 8s ease-out infinite; }
+    .line2 { opacity: 0; animation: fadeSlideIn2 8s ease-out infinite; }
+    .line3 { opacity: 0; animation: fadeSlideIn3 8s ease-out infinite; }
+    .line4 { opacity: 0; animation: fadeSlideIn4 8s ease-out infinite; }
+
+    .cursor-wrap { opacity: 0; animation: cursorAppear 8s ease-out infinite; }
+    .cursor-block { animation: blink 1s step-end infinite; }
+
+    .glow-bar { animation: glow 3s ease-in-out infinite; }
+
+    .prompt-char { animation: promptPulse 2.5s ease-in-out infinite; }
+
+    .shimmer-rect { animation: shimmer 6s linear infinite; opacity: 0.03; }
+  </style>
+
+  <!-- Outer frame with purple gradient -->
+  <rect x="0" y="0" width="800" height="380" rx="12" ry="12" fill="url(#frameBg)"/>
+  <rect x="3" y="3" width="794" height="374" rx="10" ry="10" fill="#1a1028" opacity="0.3"/>
+
+  <!-- Title bar -->
+  <rect x="4" y="4" width="792" height="40" rx="9" ry="9" fill="url(#titleBar)"/>
+  <rect x="4" y="30" width="792" height="14" fill="url(#titleBar)"/>
+
+  <!-- Traffic lights -->
+  <circle cx="28" cy="24" r="7" fill="#ff5f57"/>
+  <circle cx="50" cy="24" r="7" fill="#febc2e"/>
+  <circle cx="72" cy="24" r="7" fill="#28c840"/>
+  <circle cx="26" cy="22" r="2.5" fill="#ff8a84" opacity="0.5"/>
+  <circle cx="48" cy="22" r="2.5" fill="#fdd663" opacity="0.5"/>
+  <circle cx="70" cy="22" r="2.5" fill="#5ae072" opacity="0.5"/>
+
+  <!-- Title text -->
+  <text x="400" y="29" text-anchor="middle" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="13" fill="#c4b5fd" opacity="0.85">chee-pheng@dev ~ terminal</text>
+
+  <!-- Terminal body -->
+  <rect x="4" y="44" width="792" height="332" fill="#0d1117"/>
+  <rect x="4" y="368" width="792" height="8" rx="0" ry="8" fill="#0d1117"/>
+
+  <!-- Animated glow bar at terminal top edge -->
+  <rect class="glow-bar" x="4" y="44" width="792" height="1.5" fill="url(#glowLine)"/>
+
+  <!-- Shimmer effect across terminal -->
+  <rect class="shimmer-rect" x="4" y="44" width="200" height="332" fill="#8b5cf6" rx="4"/>
+
+  <!-- ============ Terminal Lines ============ -->
+
+  <!-- Line 1: $ chee-pheng init -->
+  <g class="line1">
+    <text x="30" y="88" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="16" class="prompt-char">$</text>
+    <text x="50" y="88" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="16" fill="#c4b5fd" font-weight="bold">chee-pheng init</text>
+  </g>
+
+  <!-- Line 2: > Loading skills... TypeScript, React, Spring Boot -->
+  <g class="line2">
+    <text x="30" y="138" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="16" fill="#6366f1">&gt;</text>
+    <text x="50" y="138" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="16" fill="#a78bfa">Loading skills... </text>
+    <text x="234" y="138" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="16" fill="#c4b5fd" font-weight="bold">TypeScript, React, Spring Boot</text>
+  </g>
+
+  <!-- Line 3: > Setting up environment... Docker, Azure, Git -->
+  <g class="line3">
+    <text x="30" y="188" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="16" fill="#6366f1">&gt;</text>
+    <text x="50" y="188" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="16" fill="#a78bfa">Setting up environment... </text>
+    <text x="310" y="188" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="16" fill="#c4b5fd" font-weight="bold">Docker, Azure, Git</text>
+  </g>
+
+  <!-- Line 4: > Ready to build amazing things. -->
+  <g class="line4">
+    <text x="30" y="238" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="16" fill="#6366f1">&gt;</text>
+    <text x="50" y="238" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="16" fill="#a78bfa">Ready to build </text>
+    <text x="206" y="238" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="16" fill="#c4b5fd" font-weight="bold">amazing things.</text>
+  </g>
+
+  <!-- Blinking cursor -->
+  <g class="cursor-wrap">
+    <rect class="cursor-block" x="30" y="260" width="10" height="20" rx="2" fill="#8b5cf6"/>
+  </g>
+
+  <!-- Bottom status bar -->
+  <rect x="4" y="348" width="792" height="1" fill="#4c1d95" opacity="0.35"/>
+  <text x="20" y="366" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="11" fill="#6366f1" opacity="0.5">session: portfolio | uptime: always learning</text>
+  <text x="775" y="366" text-anchor="end" font-family="'SF Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="11" fill="#6366f1" opacity="0.5">utf-8</text>
+</svg>
