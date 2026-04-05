@@ -158,7 +158,7 @@ const cheePheng = {
 <tr>
 <td align="center" width="50%">
   <a href="https://github.com/CheePheng/CoPilot">
-    <img src="https://github-readme-stats-mocha-six-81.vercel.app/api/pin/?username=CheePheng&repo=CoPilot&bg_color=0d1117&border_color=0d9488&title_color=2dd4bf&icon_color=06b6d4&text_color=c9d1d9" width="100%" alt="CoPilot repository card" />
+    <img src="https://github-readme-stats-mocha-six-81.vercel.app/api/pin/?username=CheePheng&repo=CoPilot&bg_color=0d1117&border_color=0d9488&title_color=2dd4bf&icon_color=06b6d4&text_color=c9d1d9&cache_seconds=1" width="100%" alt="CoPilot repository card" />
   </a>
 </td>
 <td align="center" width="50%">
@@ -170,12 +170,12 @@ const cheePheng = {
 <tr>
 <td align="center" width="50%">
   <a href="https://github.com/CheePheng/PartyAI">
-    <img src="https://github-readme-stats-mocha-six-81.vercel.app/api/pin/?username=CheePheng&repo=PartyAI&bg_color=0d1117&border_color=0d9488&title_color=2dd4bf&icon_color=06b6d4&text_color=c9d1d9" width="100%" alt="PartyAI repository card" />
+    <img src="https://github-readme-stats-mocha-six-81.vercel.app/api/pin/?username=CheePheng&repo=PartyAI&bg_color=0d1117&border_color=0d9488&title_color=2dd4bf&icon_color=06b6d4&text_color=c9d1d9&cache_seconds=1" width="100%" alt="PartyAI repository card" />
   </a>
 </td>
 <td align="center" width="50%">
   <a href="https://github.com/CheePheng/KinshipPro">
-    <img src="https://github-readme-stats-mocha-six-81.vercel.app/api/pin/?username=CheePheng&repo=KinshipPro&bg_color=0d1117&border_color=0d9488&title_color=2dd4bf&icon_color=06b6d4&text_color=c9d1d9" width="100%" alt="KinshipPro repository card" />
+    <img src="https://github-readme-stats-mocha-six-81.vercel.app/api/pin/?username=CheePheng&repo=KinshipPro&bg_color=0d1117&border_color=0d9488&title_color=2dd4bf&icon_color=06b6d4&text_color=c9d1d9&cache_seconds=1" width="100%" alt="KinshipPro repository card" />
   </a>
 </td>
 </tr>
@@ -213,9 +213,7 @@ const cheePheng = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats-mocha-six-81.vercel.app/api?username=CheePheng&show_icons=true&include_all_commits=true&bg_color=0d1117&border_color=0d9488&title_color=2dd4bf&icon_color=06b6d4&text_color=c9d1d9&ring_color=2dd4bf" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-mocha-six-81.vercel.app/api/top-langs/?username=CheePheng&layout=compact&bg_color=0d1117&border_color=0d9488&title_color=2dd4bf&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://github-readme-stats-mocha-six-81.vercel.app/api/top-langs/?username=CheePheng&layout=compact&hide=html,css,scss&bg_color=0d1117&border_color=0d9488&title_color=2dd4bf&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
