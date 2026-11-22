@@ -13,7 +13,7 @@ My portfolio is at **[cheepheng.github.io](https://cheepheng.github.io)**. It in
 
 *Full Stack Developer (Client Facing), May 2026 to now, remote*
 
-<img src="assets/cable-red.svg" width="12" height="12" align="center" alt="">&nbsp; **Zendesk to Intercom Fin migration for Toys“R”Us Asia.** A Node.js tool, using Zendesk OAuth, for the ongoing move of customer records and ticket history to Intercom Fin. I verified the message text on all 73 pilot tickets, and checked timestamps, field mappings and attachments.
+<img src="assets/cable-red.svg" width="12" height="12" align="center" alt="">&nbsp; **Zendesk to Intercom Fin migration for Toys“R”Us Asia.** I own the migration end to end, from the Node.js migration tool I built on the Zendesk API with OAuth to the progress meetings with the client. I moved customer records, ticket history and tags into Intercom Fin, mapped ticket fields and forms, and rebuilt Zendesk triggers and automations as Fin workflows. I verified the message text on all 73 pilot tickets, plus timestamps and attachments, and tested the Messenger and customer satisfaction (CSAT) workflows.
 
 <img src="assets/cable-orange.svg" width="12" height="12" align="center" alt="">&nbsp; **Two-way HubSpot and monday.com sync, with a Deal Cockpit.** Deals, contacts and companies stay in sync across three monday.com boards through Cloudflare Workers, with duplicate prevention, retries and daily reconciliation, all covered by 500+ automated tests. The embedded React Deal Cockpit adds KPI and Kanban views, live HubSpot search, and editing for deal associations and line items.
 
@@ -39,7 +39,7 @@ My portfolio is at **[cheepheng.github.io](https://cheepheng.github.io)**. It in
 - **[PartyAI](https://github.com/CheePheng/PartyAI)**: 10+ pass-and-play party games with AI-generated prompts, private turns, scoring and accessibility settings.<br><sub>React, TypeScript, Gemini API</sub>
 - **[AdCopyGen](https://github.com/CheePheng/AdCopyGen)**: ad copy in eight formats and eight tones, with structured JSON output, retry handling and saved favourites.<br><sub>Next.js, TypeScript, Groq API</sub>
 - **[Huang Furniture](https://cheepheng.github.io/huang-furniture/)**: a responsive website for a luxury furniture shop, in Chinese and English.<br><sub>HTML, CSS, JavaScript</sub>
-- **[Website showcase](https://cheepheng.github.io/#/showcase)**: motion-design websites I’ve built, running live inside my portfolio with desktop, tablet and phone views.<br><sub>React, Tailwind CSS, Motion</sub>
+- **[Website showcase](https://cheepheng.github.io/#/showcase)**: motion-design websites I’ve built, from three.js product scenes to shoppable lookbooks, running live inside my portfolio with desktop, tablet and phone views.<br><sub>TypeScript, React, three.js, Web Components, Tailwind CSS, Web Animations API</sub>
 
 ## Skills
 
